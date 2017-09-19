@@ -7,7 +7,7 @@ This assignment is intended to get you up and running with some of the tools we'
 
 ## 1. Sign up for Piazza
 
-Use this link to sign up for CS 261 on Piazza using your ONID email address: https://piazza.com/oregonstate/fall2016/cs261
+Use this link to sign up for CS 261 on Piazza using your ONID email address: https://piazza.com/oregonstate/fall2017/cs261
 
 We'll be using Piazza in this course for Q&A because it's geared towards students helping other students with the class.  Anyone can post or answer a question on Piazza, even anonymously, and the instructor and TAs can revise and endorse student answers, which means you can be confident in the quality of the response.
 
